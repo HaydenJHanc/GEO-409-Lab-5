@@ -1,5 +1,5 @@
-# My Feature Name
-A blurb about my feature.
+# GEO 409 Lab 5
+This in LiDAR imagery of Wolf Creek Dam in Kentucky. LiDAR and NAIP imagery from KyFromAbove
 
 ![Wolf Creek Dam Image](WCDMod5-1.png)     
 *Wolf Creek Dam Image
